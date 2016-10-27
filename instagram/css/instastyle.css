@@ -1,0 +1,260 @@
+
+body {
+	margin: auto;
+	background-color: #e6e6fa;
+	width: 1200px;
+	
+	text-align: center;
+
+}
+nav {
+	margin-top: -14px;
+}
+.colright {
+	float: right;
+	margin-top: ;
+	height: 700px;
+	border: px solid black;
+
+}
+#left {
+	float: left;
+	width: 30%
+	height: 800px;
+}
+img {
+	width: 140px;
+	height:140px;
+	margin: 5px;
+	border: 3px solid white;
+}
+img { 
+	transition: all .4s ease-in-out; 
+}
+img:hover { 
+	transform: scale(1.9); 
+}
+
+.home {
+	float: left;
+	border: 1px solid #cce6ff;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+	width: 80px;
+	height: 40px;
+}
+#homright {
+	float: right;	
+	border: 1px solid #cce6ff;
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	width: 80px;
+	height: 40px;
+	margin-left: 450px;
+}
+#insta {
+	margin-left: 350px;
+	width: 80px;
+	height: 40px;
+
+}
+nav {
+	width: 1200px;
+	position: ;
+}
+aside	{
+	float: left;
+	background-color: ; 
+	width: 30%;
+	
+}
+ul li {
+	display: inline-block;
+
+}
+a {
+	text-decoration: none;
+}
+ul {
+	background-color: white;
+}
+.sec1{
+
+	height: 330px;
+	border: 1px solid white;
+	background-color: white;
+
+}
+h1 {
+	font-family: sans-serif;
+	font-size:15px;
+	color: grey;
+	padding-top: 25px;
+
+}
+.sec2 {
+	border: 1px solid #cce6ff;
+	background-color: white;
+	padding-top: 20px;
+	height: 30px;	
+
+}
+#sec2img {
+	clear: both;
+	float: left;
+	width: 50px;
+	height: 50px;
+	padding: auto;
+	margin:auto;
+	border-radius: 100%;
+}
+.sec3 {
+	
+	height: 300px;
+	font-size: 12px;
+}
+.div {
+	font-size: 10px;
+	height: 250px;
+}
+button {
+	background-color: #99ff66;
+	border-radius: 10px;
+	height: 40px;
+	width: 150px;
+}
+button:hover {
+	background-color: purple;
+	cursor: pointer;
+}
+#sp1 {
+background-color: white;
+height: px;
+width: px;
+border: px solid #cce6ff;
+
+}
+#sp2 {
+background-color: white;
+height: 50px;
+border: 1px solid #cce6ff;
+width: 49%;
+border-radius: 0px;
+}
+#sp3 {
+background-color: white;
+height: 50px;
+border: 1px solid #cce6ff;
+width: 49%;
+border-radius: 0px;
+}
+#sp3:hover {
+	background-color: darkblue;
+}
+#sp2:hover {
+	background-color: darkblue;
+}
+.tx1 {
+	color: #d6d6c2;
+}
+.post {
+	font-family: fantasy;
+	font-size: 30px;
+	margin-left: px;
+}
+#hr {
+	width: 20px;
+	height: 20px;
+margin-left: px;
+		float: right;
+	}
+	#hrr {
+	width: 20px;
+	height: 20px;
+margin-left: 160px;
+		float: right;
+	}
+	
+
+
+@media only screen and (max-width: 500px){
+	body {
+		background-color: #e6e6fa;
+		max-width: 430px; 
+	}
+aside {
+content: none;
+margin-left: -2000px;
+	}
+	
+nav{
+	max-width:430px;
+	height:px;
+}
+ul li {
+	list-style: none;
+	display: inline;
+}
+.home {
+	float: left;
+	margin-left: -50px;
+	margin-top: 1px;
+}
+#homright {
+	clear: both;
+		margin-top:-50px;
+}
+#insta {
+	margin-left: 100px;
+}
+img {
+	display: block;
+	width: 400px;
+	height: 300px;
+	margin-left: 200px;
+
+}
+img:hover {
+	transform: scale(1.1);
+	}
+
+.posst img {
+	width: 350px;
+	float: right;
+}
+#hr {
+	clear: both;
+	float: ;
+	margin-left: 3px;
+}
+#hrr {
+	margin-right: px;
+	
+}
+.post {
+	margin: auto;
+}
+.colright {
+	
+	border:none;
+
+	}
+}
+@media only screen and (min-width: 501px) and (max-width: 800){
+	body {
+		background-color: green;
+		
+	}
+
+
+
+
+}
+@media only screen and (min-width: 750px){
+	body {
+		background-color: #f8fafa;
+		min-width: 750px;
+	}
+}
