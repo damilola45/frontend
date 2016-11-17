@@ -1,0 +1,212 @@
+body {
+}
+.sec {
+
+}
+nav {
+
+	background-color:#ebebe0;
+	padding-top: 5px;
+	
+
+}
+
+.logo {
+	width: 100px;
+	height: 40px;
+
+}
+a:active {
+	color: red;
+	padding: 5px;
+    border-bottom: 2px solid red;
+
+	}
+a:hover {
+	background-color: red;
+	color: white;
+	border-bottom: 5px solid #999966;
+	transition: all .3s ease-in-out;
+	transform: scale(1.5);
+}
+li {
+	float: right;
+	display: inline-block;
+	color: black;
+}
+.right {
+	float: right;
+	margin-top: -60%;
+	margin-right: 110%;
+	opacity: 0.6;
+	width: 200px;
+	height: 200px;
+	}
+	h1 {
+		color: white;
+	}
+	p {
+		color: ;
+	}
+.less {
+height: 20px;
+width: 20px;
+padding-top: 40px;
+
+}
+.pp {
+	color: white;
+}
+.greater {
+height: 20px;
+width: 20px;
+
+}
+#left {
+padding-top: 90px;
+padding-left: 150px;
+}
+#right {
+float: right;
+}
+a {
+	color: black;
+	padding: 15px;
+	text-decoration: none;
+}
+.sec1 {
+	height: 380px;
+	background-image: url("../img/backgroundd.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: auto;
+}
+.sec2 {
+	
+	background-color: ;
+	height: px;
+
+	}
+	.a {
+		padding-top: 5px;
+		color: white;
+		width: 150px;
+		font-size: 20px;
+		background-color: #999966;
+	}
+	input {
+		color: white;
+		width: 250px;
+		font-size: 20px;
+		background-color: #999966;
+	}
+	input:hover {
+		border-color: green;
+		color: lightblue;
+	}
+.sec2 section {
+	display: inline-block;
+	width: 22%;
+	margin: 5px;
+	padding: 5px;
+	height: 20%;
+	text-align: center;
+	float: none;
+}
+.sec3 {
+
+	background-color: #c2c2a3;
+	height: 400px;
+	width: 100%;
+	text-align: ;
+	
+}
+.p {
+	text-align: center;
+}
+/*.p1 {
+	width: 30px;
+height: px;
+}
+.p2 {
+	width: 300px;
+height: px;
+}
+.p3 {
+	width: 300px;
+height: px;
+}
+.p4 {
+	width: 300px;
+height: px;
+}*/
+.red {
+	color: red;
+}
+#a {
+width: 300px;
+margin-top: 0px;
+margin-left: 80px;
+}
+#a ul {
+	margin: 20px;
+	padding: 20px;
+	}
+#b{
+margin-left: 400px;
+width: 400px ;
+margin-top: -243px;
+float: none;
+
+}
+.sec3 section {
+
+}
+#c {
+
+width: ;
+background-color:;
+}
+.foot {
+	width: 250px;
+	height: 350px;
+	margin-top: -340px;
+	margin-right: 80px;
+	clear: both;
+	float: right;
+}
+#d {
+	text-align: center;
+}
+.icon1 {
+width: 30px;
+height: 30px;
+}
+.icon2 {
+width: 30px;
+height: 30px;	
+}
+.icon3 {
+	width: 30px;
+height: 30px;
+}
+.icon4 {
+	width: 30px;
+height: 30px;
+}
+.none{
+	float: none;
+}
+#a ul li:first-child {
+	width: 250px;
+	background-color: red;
+	padding: px;
+}
+
+	
+#a ul li a {
+	margin: 6px;
+}
+.same:hover {
+	background-color: red;
+}
